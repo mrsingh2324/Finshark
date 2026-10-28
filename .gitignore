@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local environment files
+.env
+.env.*
+
+# Keep the example template, if you use one
+!.env.example
